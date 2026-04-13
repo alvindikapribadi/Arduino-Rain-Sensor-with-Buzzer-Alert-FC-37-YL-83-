@@ -59,7 +59,7 @@ This example is designed for beginners with simple wiring and clean code.
 
 You can download the Arduino sketch here:
 
-[Download Arduino Code](Arduino_Rain_Sensor_Buzzer.ino)
+[Download Arduino Code](Arduino_Rain_Sensor_with_Buzzer_Alert.ino)
 
 Or open the `.ino` file directly inside this repository.
 
